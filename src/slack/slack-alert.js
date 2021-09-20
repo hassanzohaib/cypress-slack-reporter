@@ -379,7 +379,7 @@ var attachmentReports = function (_a) {
                     return [2 /*return*/, {
                             color: "#36a64f",
                             fallback: "Report available at " + reportHTMLUrl,
-                            text: "" + branchText + jobText + envSut + customText + "Total Passedss:  " + reportStatistics.totalPasses,
+                            text: "" + branchText + jobText + envSut + customText + "Total PassedssOOO:  " + reportStatistics.totalPasses,
                             actions: [
                                 {
                                     type: "button",
