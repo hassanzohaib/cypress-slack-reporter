@@ -3,7 +3,8 @@ node_modules
 logs
 .DS_STORE
 .scannerwork
-cypress/reports/
+cypress
+samples
 videos
 screenshots
 coverage
