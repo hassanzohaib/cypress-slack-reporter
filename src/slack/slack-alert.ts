@@ -380,7 +380,7 @@ const attachmentReports = async ({
       return {
         color: "#36a64f",
         fallback: `Report available at ${reportHTMLUrl}`,
-        text: `${branchText}${jobText}${envSut}${customText}Total PassedssOOO:  ${reportStatistics.totalPasses}`,
+        text: `${branchText}${jobText}${envSut}${customText}Totalo Passedss:  ${reportStatistics.totalPasses}`,
         actions: [
           {
             type: "button",
